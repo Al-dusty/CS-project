@@ -1,12 +1,17 @@
 body {
 	background-color: rgb(179, 179, 255);
 	}
+.top {
+	position: sticky;
+	top: 0;
+	background-color: rgb(179, 179, 255);
+	}
 h3 {
 	border: 2px black solid;
 	padding: 5px;
 	margin-bottom: 20px;
 	width: 300px;
-	margin-left: 75px
+	margin-left: 75px;
 	}
 a {
 	margin-right: 30px;
