@@ -1,0 +1,110 @@
+body {
+	background-color: #ADD8E6;
+	}
+nav{
+	padding: 0;
+	position: sticky;
+	top: 0px;
+	margin: 0;
+	}
+h3 {
+	border: 2px black solid;
+	padding: 5px;
+	margin-bottom: 20px;
+	width: 300px;
+	margin-left: 75px;
+	}
+.img1 {
+	margin: 30px 30px 30px 75px;
+	height: 300px;
+	}
+.p1 {
+	float: right;
+	font-family: "Times New Roman", Times, serif;
+	border: 2px black solid;
+	padding: 10px;
+	text-indent: 20px;
+	margin-top: 120px;
+	margin-bottom: 20px;
+	margin-right: 175px;
+	width: 500px;
+	}
+.p2 {
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	border: 2px black solid;
+	padding: 10px;
+	text-indent: 20px;
+	margin-top: 50px;
+	margin-bottom: 15px;
+	margin-left: 50px;
+	width: 500px;
+	}
+.img2 {
+	float: right;
+	margin-right: 110px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	}
+.sprite {
+	background: url('../images/FbIcon.png') no-repeat 0 0;
+	width: 50px;
+	height: 50px;
+}
+.sprite2 {
+	background: url('../images/TwitterIcon.jpg') no-repeat 0 0;
+	width: 50px;
+	height: 50px;
+}
+.sprite3 {
+	background: url('../images/WAPIcon.png') no-repeat 0 0;
+	width: 50px;
+	height: 50px;
+}
+footer {
+	border-top: 3px white solid;
+}
+section {
+	margin-bottom: 350px;
+}
+.ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #00008B;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.li2 {
+	float: right;
+	margin: 5px;
+}
+.li {
+	float: left;
+}
+.li a {
+	margin-right: 30px;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	text-decoration: none;
+}
+.li a:hover {
+	background-color: #111111;
+}
+.link {
+	margin-left: 75px;
+}
+.p{
+	text-align: right;
+}
+.p3{
+	float: left;
+	text-align: left;
+}
